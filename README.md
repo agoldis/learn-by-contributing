@@ -2,7 +2,7 @@
 
 This is a list of open source projects I personally used to learn different aspects of Javascript development (backend and frontend).
 
-It is very, **very** uncomplete. I am trying to figure out an efficient way to discover and classify projects that others can learn by contributing. If you have any ideas, please help me!
+It is very, **very** incomplete. I am trying to figure out an efficient way to discover and classify projects that others can learn by contributing. If you have any ideas, please help me!
 
 Feel free to add your favorite project and what other can learn from it!
 
